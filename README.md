@@ -20,7 +20,7 @@ I am interested in software architecture, systems design, and building applicati
 `Git` `VS Code` `Visual Studio`
 
 <div>
-  <a href="mailto:jacobhmollan@gmail.com">
+  <a href="mailto:contact@jacobmollan.xyz">
     <img src="https://img.shields.io/badge/Email-jacobhmollan%40gmail.com-2c3e50?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
   &nbsp;
