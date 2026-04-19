@@ -4,17 +4,4 @@
 
 #### About Me
 
-I am interested in software architecture, systems design and building applications. I focus on practical, maintainable code.
-
-#### Languages & Frameworks
-
-`JavaScript` `TypeScript` `Java` `C#` `GDScript`
-`React` `Astro` `Node.js`
-
-#### Frontend & Styling
-
-`HTML` `CSS` `Sass` `Tailwind`
-
-#### Tools
-
-`Git` `VS Code` `Visual Studio`
+Software developer with experience across web, mobile, and desktop applications. I'm interested in architecture and systems design, and I enjoy creating clean, practical interfaces. I focus on building maintainable applications.
