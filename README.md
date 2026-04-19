@@ -1,12 +1,37 @@
-<p align="center">
-  <img src="./github-header-banner.png" alt="Jacob Mollan header banner">
-</p>
+<div align="center">
+  <img src="./github-header-banner.png" alt="Jacob Mollan header banner" width="100%">
+</div>
 
-## About me
+# Jacob Mollan
 
-I’m a hobbyist developer going to study Computer Science at York St John University. I enjoy building things for fun and creating useful tools, and I share what I learn along the way. I focus on clear, readable code and practical results.
+**Software Developer**
 
-<p>
-  <a href="mailto:jacobhmollan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-2ea043?logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/jacobmollan"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
-</p>
+## About
+
+I'm interested in different areas of software development, from architecture and systems design to building applications. I focus on writing practical, maintainable code and understanding the fundamentals. Most of my time goes into side projects, university work, and exploring the field.
+
+## Skills & Experience
+
+**Languages:** JavaScript, TypeScript, Java, C#, GDScript
+**Frontend:** React, Astro, HTML, CSS, Sass, Tailwind, responsive design
+**Backend:** Node.js, database design
+**Architecture:** Systems design, design patterns, scalability
+**Tools:** Git, VS Code, Visual Studio
+
+## Get in touch
+
+<div align="center">
+  <a href="mailto:jacobhmollan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jacobhmollan%40gmail.com-2c3e50?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/jacobmollan">
+    <img src="https://img.shields.io/badge/LinkedIn-jacobmollan-2c3e50?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <sub>GitHub profile • jacobmollan</sub>
+</div>
