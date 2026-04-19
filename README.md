@@ -4,9 +4,8 @@
 
 # Jacob Mollan
 
-**Software Developer**
-
-Interested in software architecture, systems design, and building applications. I focus on practical, maintainable code.
+About:
+I am interested in software architecture, systems design, and building applications. I focus on practical, maintainable code.
 
 ### Languages & Frameworks
 
@@ -21,7 +20,7 @@ Interested in software architecture, systems design, and building applications. 
 
 `Git` `VS Code` `Visual Studio`
 
-<div align="center">
+<div>
   <a href="mailto:jacobhmollan@gmail.com">
     <img src="https://img.shields.io/badge/Email-jacobhmollan%40gmail.com-2c3e50?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
