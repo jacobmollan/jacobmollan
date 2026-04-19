@@ -2,9 +2,8 @@
   <img src="./github-header-banner.png" alt="Jacob Mollan header banner" width="100%">
 </div>
 
-# Jacob Mollan
+### About Me
 
-About:
 I am interested in software architecture, systems design, and building applications. I focus on practical, maintainable code.
 
 ### Languages & Frameworks
